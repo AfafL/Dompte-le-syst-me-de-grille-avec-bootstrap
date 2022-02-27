@@ -1,0 +1,22 @@
+
+.container
+{
+    width:590px;
+    height:590px;
+}
+.color
+{
+    border: 0.15px solid rgb(255, 251, 251);
+    background-color:orange;
+    width: 38.5px;
+    height: 38.5px;
+}
+.color-1
+{
+    border: 0.15px solid rgb(255, 255, 255);
+    background-color:rgba(245, 242, 238, 0);
+    width: 38.5px;
+    height: 38.5px;
+}
+ 
+
